@@ -1,0 +1,35 @@
+##############################################################################################
+#Parâmetros de execução:
+########################
+FT_LIST=7,8,9,11,12,18,21,37,66,95,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,304,305,306,307,308,309,310,311,312,313,314,315
+CROMOSSOMES=X,Y,2L,2R,3L,3R,4
+MODELS=N1
+CRITERIA=0_1
+BLOCK_SIZE=10000
+DEBUG=NO
+PSEUDOCOUNTER=0.01
+##############################################################################################
+#Diretórios e arquivos:
+########################
+#Arquivo FASTA contendo as sequências a serem percorridas. Por exemplo, um genoma:
+INPUT_DATA=/home/aferrao/genomas/drosophila_melanogaster/Drosophila_melanogaster.BDGP6.dna_sm.toplevel.fa
+#Arquivo texto contendo os sítios encontrados, candidatos a serem SLFT:
+OUTPUT_DATA=/home/aferrao/tfbs_search_tool/output/found_tfbs.txt
+#Arquivo texto sumarizado contendo as contagens dos sítios encontrados, candidatos a serem SLFT.
+#Essa contagem é reiniciada a cada BLOCK_SIZE (variável definida acima), para todos os FTs em FT_LIST:
+SUMMARY_OUTPUT_DATA=/home/aferrao/tfbs_search_tool/output/summary_found_tfbs.txt
+#Arquivo contendo dados dos Fatores de Transcrição:
+TF_PARAM=/home/aferrao/roc_process/new_output_after_roc/tf_parameters.txt
+#Arquivo contendo os parâmetros e os cutoffs das gramáticas: 
+GRE_TOOL_PARAM=/home/aferrao/roc_process/new_output_after_roc/gre_tool_parameters.txt
+#Arquivo contendo as frequências genômicas das espécies:
+GENOME_FREQ=/home/aferrao/swalign/sites.cut.fasta/lista_gen_freq.txt
+##############################################################################################
+#Diretórios:
+########################
+#Diretório contendo todas as gramáticas e as PWMs previamente treinadas: 
+PWM_GRE_DIRECTORY_IN=/home/aferrao/roc_process/new_output_after_roc/
+#Diretório de compilação do autômato (será utilizado apenas com DEBUG=YES): 
+AUTOMATON_DIR=/home/aferrao/lgc/src/util/automaton/
+##############################################################################################
+

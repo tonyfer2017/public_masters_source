@@ -1,0 +1,341 @@
+*	FT0000001	AGL3	Arabidopsis thaliana	SELEX	MA0001.1.sites	10	97
+*	FT0000002	RUNX1	Homo sapiens	SELEX	MA0002.1.sites	11	26
+*	FT0000003	AG	Arabidopsis thaliana	SELEX	MA0005.1.sites	11	90
+*	FT0000004	Ar	Rattus rattus	SELEX	MA0007.1.sites	22	24
+*	FT0000005	HAT5	Arabidopsis thaliana	SELEX	MA0008.1.sites	8	25
+*	FT0000006	T	Mus musculus	SELEX	MA0009.1.sites	11	40
+*	FT0000007	br	Drosophila melanogaster	COMPILED	MA0010.1.sites	14	9
+*	FT0000008	br(var.2)	Drosophila melanogaster	COMPILED	MA0011.1.sites	8	12
+*	FT0000009	br(var.3)	Drosophila melanogaster	COMPILED	MA0012.1.sites	11	12
+*	FT0000010	Pax5	Mus musculus	COMPILED	MA0014.1.sites	20	12
+*	FT0000011	Cf2	Drosophila melanogaster	SELEX	MA0015.1.sites	10	80
+*	FT0000012	usp	Drosophila melanogaster	SELEX	MA0016.1.sites	10	38
+*	FT0000013	NR2F1	Homo sapiens	COMPILED	MA0017.1.sites	14	13
+*	FT0000014	CREB1	Homo sapiens	SELEX	MA0018.1.sites	12	16
+*	FT0000015	Ddit3::Cebpa	Rattus norvegicus	SELEX	MA0019.1.sites	12	39
+*	FT0000016	Dof2	Zea mays	SELEX	MA0020.1.sites	6	21
+*	FT0000017	Dof3	Zea mays	SELEX	MA0021.1.sites	6	21
+*	FT0000018	dl(var.2)	Drosophila melanogaster	SELEX	MA0023.1.sites	10	9
+*	FT0000019	E2F1	Homo sapiens	COMPILED	MA0024.1.sites	8	10
+*	FT0000020	NFIL3	Homo sapiens	SELEX	MA0025.1.sites	11	23
+*	FT0000021	Eip74EF	Drosophila melanogaster	SELEX	MA0026.1.sites	7	17
+*	FT0000022	ELK1	Homo sapiens	SELEX	MA0028.1.sites	10	28
+*	FT0000023	Mecom	Mus musculus	SELEX	MA0029.1.sites	14	47
+*	FT0000024	FOXF2	Homo sapiens	SELEX	MA0030.1.sites	8	20
+*	FT0000025	FOXD1	Homo sapiens	SELEX	MA0031.1.sites	8	20
+*	FT0000026	Gam1	Hordeum vulgare	SELEX	MA0034.1.sites	10	25
+*	FT0000027	GATA2	Homo sapiens	SELEX	MA0036.1.sites	5	53
+*	FT0000028	GATA3	Homo sapiens	SELEX	MA0037.1.sites	6	63
+*	FT0000029	Gfi1	Rattus norvegicus	SELEX	MA0038.1.sites	10	53
+*	FT0000030	Foxq1	Rattus norvegicus	SELEX	MA0040.1.sites	11	18
+*	FT0000031	Foxd3	Rattus norvegicus	SELEX	MA0041.1.sites	12	47
+*	FT0000032	HLF	Homo sapiens	SELEX	MA0043.1.sites	12	18
+*	FT0000033	HMG-1	Pisum sativum	SELEX	MA0044.1.sites	9	13
+*	FT0000034	HMG-I/Y	Pisum sativum	SELEX	MA0045.1.sites	16	14
+*	FT0000035	Foxa2	Rattus norvegicus	COMPILED	MA0047.1.sites	12	17
+*	FT0000036	NHLH1	Homo sapiens	SELEX	MA0048.1.sites	12	54
+*	FT0000037	hb	Drosophila melanogaster	COMPILED	MA0049.1.sites	10	16
+*	FT0000038	IRF2	Homo sapiens	SELEX	MA0051.1.sites	18	12
+*	FT0000039	MEF2A	Homo sapiens	SELEX	MA0052.1.sites	10	58
+*	FT0000040	myb.Ph3	Petunia x hybrida	SELEX	MA0054.1.sites	9	70
+*	FT0000041	MZF1(var.2)	Homo sapiens	SELEX	MA0057.1.sites	10	16
+*	FT0000042	MAX	Homo sapiens	SELEX	MA0058.1.sites	10	17
+*	FT0000043	MAX::MYC	Homo sapiens	SELEX	MA0059.1.sites	11	21
+*	FT0000044	NFYA	Mus musculus	COMPILED	MA0060.1.sites	16	116
+*	FT0000045	NFKB1	Oryctolagus cuniculus	COMPILED	MA0105.1.sites	10	38
+*	FT0000046	GABPA	Homo sapiens	COMPILED	MA0062.1.sites	10	7
+*	FT0000047	Nkx2-5	Mus musculus	SELEX	MA0063.1.sites	7	17
+*	FT0000048	PPARG::RXRA	Homo sapiens	SELEX	MA0065.1.sites	20	41
+*	FT0000049	PPARG	Homo sapiens	SELEX	MA0066.1.sites	20	28
+*	FT0000050	Pax2	Mus musculus	SELEX	MA0067.1.sites	8	31
+*	FT0000051	Pax6	Homo sapiens	SELEX	MA0069.1.sites	14	43
+*	FT0000052	PBX1	Homo sapiens	SELEX	MA0070.1.sites	12	18
+*	FT0000053	RORA	Homo sapiens	SELEX	MA0071.1.sites	10	25
+*	FT0000054	RORA(var.2)	Homo sapiens	SELEX	MA0072.1.sites	14	36
+*	FT0000055	RREB1	Homo sapiens	SELEX	MA0073.1.sites	20	11
+*	FT0000056	RXRA::VDR	Homo sapiens	SELEX	MA0074.1.sites	15	10
+*	FT0000057	ELK4	Homo sapiens	SELEX	MA0076.1.sites	9	20
+*	FT0000058	SOX9	Homo sapiens	SELEX	MA0077.1.sites	9	76
+*	FT0000059	Sox17	Mus musculus	SELEX	MA0078.1.sites	9	31
+*	FT0000060	SP1	Homo sapiens	SELEX	MA0079.1.sites	10	8
+*	FT0000061	SPI1	Homo sapiens	SELEX	MA0080.1.sites	6	57
+*	FT0000062	SPIB	Homo sapiens	SELEX	MA0081.1.sites	7	49
+*	FT0000063	squamosa	Antirrhinum majus	SELEX	MA0082.1.sites	14	30
+*	FT0000064	SRF	Homo sapiens	SELEX	MA0083.1.sites	12	46
+*	FT0000065	SRY	Homo sapiens	SELEX	MA0084.1.sites	9	28
+*	FT0000066	Su(H)	Drosophila melanogaster	COMPILED	MA0085.1.sites	16	10
+*	FT0000067	Sox5	Mus musculus	SELEX	MA0087.1.sites	7	23
+*	FT0000068	znf143	Xenopus laevis	COMPILED	MA0088.1.sites	20	10
+*	FT0000069	MAFG::NFE2L1	Gallus gallus	SELEX	MA0089.1.sites	6	34
+*	FT0000070	TAL1::TCF3	Homo sapiens	SELEX	MA0091.1.sites	12	44
+*	FT0000071	Hand1::Tcf3	Mus musculus	SELEX	MA0092.1.sites	10	29
+*	FT0000072	USF1	Homo sapiens	SELEX	MA0093.1.sites	7	30
+*	FT0000073	YY1	Homo sapiens	COMPILED	MA0095.1.sites	6	17
+*	FT0000074	bZIP911	Antirrhinum majus	SELEX	MA0097.1.sites	12	33
+*	FT0000075	ETS1	Homo sapiens	SELEX	MA0098.1.sites	6	40
+*	FT0000076	REL	Homo sapiens	SELEX	MA0101.1.sites	10	17
+*	FT0000077	Cebpa	Rattus norvegicus	COMPILED	MA0102.1.sites	12	18
+*	FT0000078	ZEB1	Gallus gallus	SELEX	MA0103.1.sites	6	41
+*	FT0000079	NFKB1	Homo sapiens	SELEX	MA0105.2.sites	11	18
+*	FT0000080	TP53	Homo sapiens	SELEX	MA0106.1.sites	20	17
+*	FT0000081	RELA	Homo sapiens	SELEX	MA0107.1.sites	10	18
+*	FT0000082	ATHB-5	Arabidopsis thaliana	SELEX	MA0110.1.sites	9	37
+*	FT0000083	Spz1	Mus musculus	SELEX	MA0111.1.sites	11	12
+*	FT0000084	ESR1	Mus musculus	COMPILED	MA0112.1.sites	18	9
+*	FT0000085	NR1H2::RXRA	Homo sapiens	SELEX	MA0115.1.sites	17	25
+*	FT0000086	Znf423	Rattus norvegicus	SELEX	MA0116.1.sites	15	33
+*	FT0000087	Mafb	Rattus norvegicus	SELEX	MA0117.1.sites	8	15
+*	FT0000088	Macho-1	Halocynthia roretzi	SELEX	MA0118.1.sites	9	42
+*	FT0000089	NFIC::TLX1	Homo sapiens	SELEX	MA0119.1.sites	14	16
+*	FT0000090	id1	Zea mays	SELEX	MA0120.1.sites	12	24
+*	FT0000091	ARR10	Arabidopsis thaliana	SELEX	MA0121.1.sites	8	15
+*	FT0000092	Nkx3-2	Mus musculus	SELEX	MA0122.1.sites	9	24
+*	FT0000093	abi4	Zea mays	SELEX	MA0123.1.sites	10	49
+*	FT0000094	Nobox	Mus musculus	SELEX	MA0125.1.sites	8	38
+*	FT0000095	ovo	Drosophila melanogaster	SELEX	MA0126.1.sites	9	21
+*	FT0000096	PEND	Pisum sativum	SELEX	MA0127.1.sites	10	42
+*	FT0000097	TGA1A	Nicotiana sp.	SELEX	MA0129.1.sites	7	15
+*	FT0000098	ZNF354C	Homo sapiens	SELEX	MA0130.1.sites	6	16
+*	FT0000099	HINFP	Homo sapiens	SELEX	MA0131.1.sites	10	20
+*	FT0000100	Pdx1	Mus musculus	SELEX	MA0132.1.sites	6	31
+*	FT0000101	Lhx3	Mus musculus	SELEX	MA0135.1.sites	13	20
+*	FT0000102	ELF5	Mus musculus	SELEX	MA0136.1.sites	9	44
+*	FT0000103	STAT1	Homo sapiens	COMPILED	MA0137.1.sites	14	15
+*	FT0000104	REST	Homo sapiens	COMPILED	MA0138.1.sites	19	22
+*	FT0000105	EWSR1-FLI1	Homo sapiens	ChIP-seq	MA0149.1.sites	18	105
+*	FT0000106	NFE2L2	Homo sapiens	COMPILED	MA0150.1.sites	11	20
+*	FT0000107	NFATC2	Mus musculus	COMPILED	MA0152.1.sites	7	26
+*	FT0000108	HNF1B	Mus musculus	COMPILED	MA0153.1.sites	12	9
+*	FT0000109	EBF1	Mus musculus	COMPILED	MA0154.1.sites	10	25
+*	FT0000110	INSM1	Homo sapiens	COMPILED	MA0155.1.sites	12	24
+*	FT0000111	FEV	Rattus norvegicus	COMPILED	MA0156.1.sites	8	13
+*	FT0000112	FOXO3	Mus musculus	COMPILED	MA0157.1.sites	8	13
+*	FT0000113	RARA::RXRA	Homo sapiens	COMPILED	MA0159.1.sites	17	23
+*	FT0000114	NFIC	Homo sapiens	High-throughput SELEX SAGE	MA0161.1.sites	6	6912
+*	FT0000115	Egr1	Mus musculus	bacterial 1-hybrid	MA0162.1.sites	11	15
+*	FT0000116	PLAG1	Homo sapiens	bacterial 1-hybrid	MA0163.1.sites	14	18
+*	FT0000117	Nr2e3	Mus musculus	SELEX	MA0164.1.sites	7	23
+*	FT0000118	SPI1	Homo sapiens	COMPILED	MA0080.2.sites	7	42
+*	FT0000119	CREB1	Mus musculus	COMPILED	MA0018.2.sites	8	11
+*	FT0000120	SP1	Mus musculus	COMPILED	MA0079.2.sites	10	35
+*	FT0000121	Abd-B	Drosophila melanogaster	bacterial 1-hybrid	MA0165.1.sites	7	21
+*	FT0000122	Antp	Drosophila melanogaster	bacterial 1-hybrid	MA0166.1.sites	7	16
+*	FT0000123	Awh	Drosophila melanogaster	bacterial 1-hybrid	MA0167.1.sites	7	40
+*	FT0000124	B-H1	Drosophila melanogaster	bacterial 1-hybrid	MA0168.1.sites	7	42
+*	FT0000125	B-H2	Drosophila melanogaster	bacterial 1-hybrid	MA0169.1.sites	7	21
+*	FT0000126	C15	Drosophila melanogaster	bacterial 1-hybrid	MA0170.1.sites	7	19
+*	FT0000127	CG11085	Drosophila melanogaster	bacterial 1-hybrid	MA0171.1.sites	7	13
+*	FT0000128	CG11617	Drosophila melanogaster	bacterial 1-hybrid	MA0173.1.sites	7	18
+*	FT0000129	Dbx	Drosophila melanogaster	bacterial 1-hybrid	MA0174.1.sites	7	21
+*	FT0000130	lms	Drosophila melanogaster	bacterial 1-hybrid	MA0175.1.sites	7	21
+*	FT0000131	CG15696-RA	Drosophila melanogaster	bacterial 1-hybrid	MA0176.1.sites	7	32
+*	FT0000132	CG18599	Drosophila melanogaster	bacterial 1-hybrid	MA0177.1.sites	7	25
+*	FT0000133	CG32105	Drosophila melanogaster	bacterial 1-hybrid	MA0178.1.sites	7	21
+*	FT0000134	CG32532	Drosophila melanogaster	bacterial 1-hybrid	MA0179.1.sites	7	23
+*	FT0000135	Vsx1	Drosophila melanogaster	bacterial 1-hybrid	MA0181.1.sites	7	23
+*	FT0000136	CG4328-RA	Drosophila melanogaster	bacterial 1-hybrid	MA0182.1.sites	7	30
+*	FT0000137	HHEX	Drosophila melanogaster	bacterial 1-hybrid	MA0183.1.sites	8	26
+*	FT0000138	CG9876	Drosophila melanogaster	bacterial 1-hybrid	MA0184.1.sites	7	21
+*	FT0000139	Deaf1	Drosophila melanogaster	DNaseI footprinting	MA0185.1.sites	6	10
+*	FT0000140	Dfd	Drosophila melanogaster	bacterial 1-hybrid	MA0186.1.sites	7	24
+*	FT0000141	Dll	Drosophila melanogaster	bacterial 1-hybrid	MA0187.1.sites	7	23
+*	FT0000142	Dr	Drosophila melanogaster	bacterial 1-hybrid	MA0188.1.sites	7	21
+*	FT0000143	E5	Drosophila melanogaster	bacterial 1-hybrid	MA0189.1.sites	7	43
+*	FT0000144	HGTX	Drosophila melanogaster	bacterial 1-hybrid	MA0191.1.sites	7	20
+*	FT0000145	Hmx	Drosophila melanogaster	bacterial 1-hybrid	MA0192.1.sites	7	20
+*	FT0000146	schlank	Drosophila melanogaster	bacterial 1-hybrid	MA0193.1.sites	7	39
+*	FT0000147	Lim3	Drosophila melanogaster	bacterial 1-hybrid	MA0195.1.sites	7	20
+*	FT0000148	NK7.1	Drosophila melanogaster	bacterial 1-hybrid	MA0196.1.sites	7	35
+*	FT0000149	nub	Drosophila melanogaster	bacterial 1-hybrid	MA0197.1.sites	8	22
+*	FT0000150	OdsH	Drosophila melanogaster	bacterial 1-hybrid	MA0198.1.sites	7	22
+*	FT0000151	Rx	Drosophila melanogaster	bacterial 1-hybrid	MA0202.1.sites	7	32
+*	FT0000152	Scr	Drosophila melanogaster	bacterial 1-hybrid	MA0203.1.sites	7	25
+*	FT0000153	Trl	Drosophila melanogaster	DNaseI footprinting	MA0205.1.sites	10	71
+*	FT0000154	abd-A	Drosophila melanogaster	bacterial 1-hybrid	MA0206.1.sites	7	18
+*	FT0000155	achi	Drosophila melanogaster	bacterial 1-hybrid	MA0207.1.sites	6	30
+*	FT0000156	ap	Drosophila melanogaster	bacterial 1-hybrid	MA0209.1.sites	7	19
+*	FT0000157	ara	Drosophila melanogaster	bacterial 1-hybrid	MA0210.1.sites	5	34
+*	FT0000158	brk	Drosophila melanogaster	DNaseI footprinting	MA0213.1.sites	8	10
+*	FT0000159	bsh	Drosophila melanogaster	bacterial 1-hybrid	MA0214.1.sites	7	16
+*	FT0000160	btn	Drosophila melanogaster	bacterial 1-hybrid	MA0215.1.sites	7	23
+*	FT0000161	cad	Drosophila melanogaster	bacterial 1-hybrid	MA0216.1.sites	7	43
+*	FT0000162	caup	Drosophila melanogaster	bacterial 1-hybrid	MA0217.1.sites	5	19
+*	FT0000163	ct	Drosophila melanogaster	bacterial 1-hybrid	MA0218.1.sites	6	23
+*	FT0000164	ems	Drosophila melanogaster	bacterial 1-hybrid	MA0219.1.sites	7	20
+*	FT0000165	en	Drosophila melanogaster	bacterial 1-hybrid	MA0220.1.sites	7	23
+*	FT0000166	eve	Drosophila melanogaster	bacterial 1-hybrid	MA0221.1.sites	7	22
+*	FT0000167	exd	Drosophila melanogaster	bacterial 1-hybrid	MA0222.1.sites	8	17
+*	FT0000168	exex	Drosophila melanogaster	bacterial 1-hybrid	MA0224.1.sites	7	23
+*	FT0000169	ftz	Drosophila melanogaster	bacterial 1-hybrid	MA0225.1.sites	7	18
+*	FT0000170	hbn	Drosophila melanogaster	bacterial 1-hybrid	MA0226.1.sites	7	17
+*	FT0000171	ind	Drosophila melanogaster	bacterial 1-hybrid	MA0228.1.sites	7	21
+*	FT0000172	inv	Drosophila melanogaster	bacterial 1-hybrid	MA0229.1.sites	8	16
+*	FT0000173	lab	Drosophila melanogaster	bacterial 1-hybrid	MA0230.1.sites	7	16
+*	FT0000174	lbe	Drosophila melanogaster	bacterial 1-hybrid	MA0231.1.sites	6	22
+*	FT0000175	lbl	Drosophila melanogaster	bacterial 1-hybrid	MA0232.1.sites	6	23
+*	FT0000176	onecut	Drosophila melanogaster	bacterial 1-hybrid	MA0235.1.sites	7	15
+*	FT0000177	otp	Drosophila melanogaster	bacterial 1-hybrid	MA0236.1.sites	7	20
+*	FT0000178	pan	Drosophila melanogaster	DNaseI footprinting	MA0237.1.sites	8	25
+*	FT0000179	pb	Drosophila melanogaster	bacterial 1-hybrid	MA0238.1.sites	7	24
+*	FT0000180	prd	Drosophila melanogaster	bacterial 1-hybrid	MA0239.1.sites	9	37
+*	FT0000181	repo	Drosophila melanogaster	bacterial 1-hybrid	MA0240.1.sites	7	28
+*	FT0000182	ro	Drosophila melanogaster	bacterial 1-hybrid	MA0241.1.sites	7	23
+*	FT0000183	Bgb::run	Drosophila melanogaster	bacterial 1-hybrid	MA0242.1.sites	9	29
+*	FT0000184	slbo	Drosophila melanogaster	DNaseI footprinting	MA0244.1.sites	8	12
+*	FT0000185	slou	Drosophila melanogaster	bacterial 1-hybrid	MA0245.1.sites	7	22
+*	FT0000186	tin	Drosophila melanogaster	bacterial 1-hybrid	MA0247.1.sites	8	16
+*	FT0000187	tup	Drosophila melanogaster	bacterial 1-hybrid	MA0248.1.sites	7	22
+*	FT0000188	twi	Drosophila melanogaster	DNaseI footprinting	MA0249.1.sites	12	15
+*	FT0000189	unc-4	Drosophila melanogaster	bacterial 1-hybrid	MA0250.1.sites	7	21
+*	FT0000190	unpg	Drosophila melanogaster	bacterial 1-hybrid	MA0251.1.sites	7	21
+*	FT0000191	vis	Drosophila melanogaster	bacterial 1-hybrid	MA0252.1.sites	6	34
+*	FT0000192	vnd	Drosophila melanogaster	bacterial 1-hybrid	MA0253.1.sites	9	19
+*	FT0000193	vvl	Drosophila melanogaster	DNaseI footprinting	MA0254.1.sites	6	11
+*	FT0000194	z	Drosophila melanogaster	DNaseI footprinting	MA0255.1.sites	10	41
+*	FT0000195	zen	Drosophila melanogaster	bacterial 1-hybrid	MA0256.1.sites	7	16
+*	FT0000196	zen2	Drosophila melanogaster	bacterial 1-hybrid	MA0257.1.sites	7	26
+*	FT0000197	Ubx	Drosophila melanogaster	bacterial 1-hybrid	MA0094.2.sites	8	20
+*	FT0000198	ESR2	Homo sapiens	ChIP-chip	MA0258.1.sites	18	357
+*	FT0000199	ARNT::HIF1A	Oryctolagus cuniculus	COMPILED	MA0259.1.sites	8	104
+*	FT0000200	btd	Drosophila melanogaster	bacterial 1-hybrid	MA0443.1.sites	10	32
+*	FT0000201	CG34031	Drosophila melanogaster	bacterial 1-hybrid	MA0444.1.sites	7	25
+*	FT0000202	D	Drosophila melanogaster	bacterial 1-hybrid	MA0445.1.sites	11	34
+*	FT0000203	fkh	Drosophila melanogaster	bacterial 1-hybrid	MA0446.1.sites	11	36
+*	FT0000204	gt	Drosophila melanogaster	bacterial 1-hybrid	MA0447.1.sites	10	35
+*	FT0000205	H2.0	Drosophila melanogaster	bacterial 1-hybrid	MA0448.1.sites	7	22
+*	FT0000206	h	Drosophila melanogaster	bacterial 1-hybrid	MA0449.1.sites	10	42
+*	FT0000207	hkb	Drosophila melanogaster	bacterial 1-hybrid	MA0450.1.sites	9	32
+*	FT0000208	kni	Drosophila melanogaster	bacterial 1-hybrid	MA0451.1.sites	12	26
+*	FT0000209	Kr 	Drosophila melanogaster	bacterial 1-hybrid	MA0452.1.sites	11	31
+*	FT0000210	nub	Drosophila melanogaster	bacterial 1-hybrid	MA0197.2.sites	12	29
+*	FT0000211	odd	Drosophila melanogaster	bacterial 1-hybrid	MA0454.1.sites	11	20
+*	FT0000212	opa	Drosophila melanogaster	bacterial 1-hybrid	MA0456.1.sites	12	21
+*	FT0000213	PHDP	Drosophila melanogaster	bacterial 1-hybrid	MA0457.1.sites	7	19
+*	FT0000214	slp1	Drosophila melanogaster	bacterial 1-hybrid	MA0458.1.sites	11	41
+*	FT0000215	tll	Drosophila melanogaster	bacterial 1-hybrid	MA0459.1.sites	10	34
+*	FT0000216	ttk	Drosophila melanogaster	bacterial 1-hybrid	MA0460.1.sites	9	22
+*	FT0000217	ZBTB33	Homo sapiens	ChIP-seq	MA0527.1.sites	15	705
+*	FT0000218	USF2	Homo sapiens	ChIP-seq	MA0526.1.sites	11	13819
+*	FT0000219	TCF7L2	Homo sapiens	ChIP-seq	MA0523.1.sites	14	4188
+*	FT0000220	Tcf3	Mus musculus	ChIP-seq	MA0522.1.sites	11	17261
+*	FT0000221	Tcf12	Mus musculus	ChIP-seq	MA0521.1.sites	11	12895
+*	FT0000222	Stat6	Mus musculus	ChIP-seq	MA0520.1.sites	15	1852
+*	FT0000223	Stat5a::Stat5b	Mus musculus	ChIP-seq	MA0519.1.sites	11	16507
+*	FT0000224	Stat4	Mus musculus	ChIP-seq	MA0518.1.sites	14	2873
+*	FT0000225	Atoh1	Mus musculus	ChIP-seq	MA0461.1.sites	8	7714
+*	FT0000226	BATF::JUN	Homo sapiens	ChIP-seq	MA0462.1.sites	11	10522
+*	FT0000227	Bcl6	Mus musculus	ChIP-seq	MA0463.1.sites	14	956
+*	FT0000228	Bhlhe40	Mus musculus	ChIP-seq	MA0464.1.sites	11	15804
+*	FT0000229	CDX2	Homo sapiens	ChIP-seq	MA0465.1.sites	11	1597
+*	FT0000230	Crx	Mus musculus	ChIP-seq	MA0467.1.sites	11	2097
+*	FT0000231	DUX4	Homo sapiens	ChIP-seq	MA0468.1.sites	11	38217
+*	FT0000232	E2F3	Mus musculus	ChIP-seq	MA0469.1.sites	11	2549
+*	FT0000233	E2F4	Homo sapiens	ChIP-seq	MA0470.1.sites	11	1878
+*	FT0000234	E2F6	Homo sapiens	ChIP-seq	MA0471.1.sites	11	2757
+*	FT0000235	EGR2	Mus musculus	ChIP-seq	MA0472.1.sites	15	1246
+*	FT0000236	ELF1	Homo sapiens	ChIP-seq	MA0473.1.sites	13	13518
+*	FT0000237	Erg	Mus musculus	ChIP-seq	MA0474.1.sites	11	16727
+*	FT0000238	FLI1	Homo sapiens	ChIP-seq	MA0475.1.sites	11	3667
+*	FT0000239	FOS	Homo sapiens	ChIP-seq	MA0476.1.sites	11	29396
+*	FT0000240	FOSL1	Homo sapiens	ChIP-seq	MA0477.1.sites	11	5272
+*	FT0000241	FOSL2	Homo sapiens	ChIP-seq	MA0478.1.sites	11	5318
+*	FT0000242	FOXH1	Homo sapiens	ChIP-seq	MA0479.1.sites	11	8211
+*	FT0000243	Foxo1	Mus musculus	ChIP-seq	MA0480.1.sites	11	2490
+*	FT0000244	FOXP1	Homo sapiens	ChIP-seq	MA0481.1.sites	15	311
+*	FT0000245	Gata4	Mus musculus	ChIP-seq	MA0482.1.sites	11	2746
+*	FT0000246	Gfi1b	Mus musculus	ChIP-seq	MA0483.1.sites	11	1761
+*	FT0000247	Hoxc9	Mus musculus	ChIP-seq	MA0485.1.sites	13	885
+*	FT0000248	HSF1	Homo sapiens	ChIP-seq	MA0486.1.sites	15	225
+*	FT0000249	JUN	Homo sapiens	ChIP-seq	MA0488.1.sites	13	20968
+*	FT0000250	JUN(var.2)	Homo sapiens	ChIP-seq	MA0489.1.sites	14	10956
+*	FT0000251	JUNB	Homo sapiens	ChIP-seq	MA0490.1.sites	11	16992
+*	FT0000252	JUND	Homo sapiens	ChIP-seq	MA0491.1.sites	11	38710
+*	FT0000253	Klf1	Mus musculus	ChIP-seq	MA0493.1.sites	11	526
+*	FT0000254	Nr1h3::Rxra	Mus musculus	ChIP-seq	MA0494.1.sites	19	1269
+*	FT0000255	MEF2C	Homo sapiens	ChIP-seq	MA0497.1.sites	15	2209
+*	FT0000256	Meis1	Mus musculus	ChIP-seq	MA0498.1.sites	15	2607
+*	FT0000257	Myod1	Mus musculus	ChIP-seq	MA0499.1.sites	13	24514
+*	FT0000258	Myog	Mus musculus	ChIP-seq	MA0500.1.sites	11	19356
+*	FT0000259	MAF::NFE2	Homo sapiens	ChIP-seq	MA0501.1.sites	15	1090
+*	FT0000260	NFYB	Homo sapiens	ChIP-seq	MA0502.1.sites	15	7020
+*	FT0000261	Nkx2-5(var.2)	Mus musculus	ChIP-seq	MA0503.1.sites	11	3429
+*	FT0000262	NR2C2	Homo sapiens	ChIP-seq	MA0504.1.sites	15	395
+*	FT0000263	Nr5a2	Mus musculus	ChIP-seq	MA0505.1.sites	15	1702
+*	FT0000264	NRF1	Homo sapiens	ChIP-seq	MA0506.1.sites	11	4624
+*	FT0000265	POU2F2	Homo sapiens	ChIP-seq	MA0507.1.sites	13	2287
+*	FT0000266	PRDM1	Homo sapiens	ChIP-seq	MA0508.1.sites	15	4603
+*	FT0000267	Rfx1	Mus musculus	ChIP-seq	MA0509.1.sites	14	2138
+*	FT0000268	RFX5	Homo sapiens	ChIP-seq	MA0510.1.sites	15	3868
+*	FT0000269	RUNX2	Homo sapiens	ChIP-seq	MA0511.1.sites	15	1062
+*	FT0000270	Rxra	Mus musculus	ChIP-seq	MA0512.1.sites	11	5348
+*	FT0000271	SMAD2::SMAD3::SMAD4	Homo sapiens	ChIP-seq	MA0513.1.sites	13	899
+*	FT0000272	Sox3	Mus musculus	ChIP-seq	MA0514.1.sites	10	2067
+*	FT0000273	Sox6	Mus musculus	ChIP-seq	MA0515.1.sites	10	249
+*	FT0000274	SP2	Homo sapiens	ChIP-seq	MA0516.1.sites	15	1686
+*	FT0000275	STAT1::STAT2	Homo sapiens	ChIP-seq	MA0517.1.sites	15	620
+*	FT0000276	CEBPA	Homo sapiens	ChIP-seq	MA0102.3.sites	11	15318
+*	FT0000277	E2F1	Homo sapiens	ChIP-seq	MA0024.2.sites	11	1059
+*	FT0000278	EBF1	Homo sapiens	ChIP-seq	MA0154.2.sites	11	33855
+*	FT0000279	ELK4	Homo sapiens	ChIP-seq	MA0076.2.sites	11	3427
+*	FT0000280	Ets1	Mus musculus	ChIP-seq	MA0098.2.sites	15	1868
+*	FT0000281	Gata1	Mus musculus	ChIP-seq	MA0035.3.sites	11	17955
+*	FT0000282	GATA2	Homo sapiens	ChIP-seq	MA0036.2.sites	14	4380
+*	FT0000283	IRF1	Homo sapiens	ChIP-seq	MA0050.2.sites	21	1362
+*	FT0000284	MAX	Homo sapiens	ChIP-seq	MA0058.2.sites	10	24565
+*	FT0000285	MEF2A	Homo sapiens	ChIP-seq	MA0052.2.sites	15	1473
+*	FT0000286	Myb	Mus musculus	ChIP-seq	MA0100.2.sites	10	979
+*	FT0000287	Myc	Mus musculus	ChIP-seq	MA0147.2.sites	10	5335
+*	FT0000288	Mycn	Mus musculus	ChIP-seq	MA0104.3.sites	8	1403
+*	FT0000289	Nfe2l2	Mus musculus	ChIP-seq	MA0150.2.sites	15	726
+*	FT0000290	NFKB1	Homo sapiens	ChIP-seq	MA0105.3.sites	11	5112
+*	FT0000291	NFYA	Homo sapiens	ChIP-seq	MA0060.2.sites	18	8768
+*	FT0000292	PAX5	Homo sapiens	ChIP-seq	MA0014.2.sites	19	896
+*	FT0000293	Sox2	Mus musculus	ChIP-seq	MA0143.3.sites	8	1476
+*	FT0000294	SP1	Homo sapiens	ChIP-seq	MA0079.3.sites	11	8734
+*	FT0000295	SRF	Homo sapiens	ChIP-seq	MA0083.2.sites	18	2277
+*	FT0000296	STAT1	Homo sapiens	ChIP-seq	MA0137.3.sites	11	3629
+*	FT0000297	STAT3	Homo sapiens	ChIP-seq	MA0144.2.sites	11	21620
+*	FT0000298	GATA1::TAL1	Homo sapiens	ChIP-seq	MA0140.2.sites	18	4955
+*	FT0000299	TFAP2A	Homo sapiens	ChIP-seq	MA0003.2.sites	15	5098
+*	FT0000300	TP53	Homo sapiens	ChIP-seq	MA0106.2.sites	15	1231
+*	FT0000301	USF1	Homo sapiens	ChIP-seq	MA0093.2.sites	11	16842
+*	FT0000302	YY1	Homo sapiens	ChIP-seq	MA0095.2.sites	12	7171
+*	FT0000303	ZEB1	Homo sapiens	ChIP-seq	MA0103.2.sites	9	3555
+*	FT0000304	BEAF-32	Drosophila melanogaster	ChIP-chip	MA0529.1.sites	15	3985
+*	FT0000305	cad	Drosophila melanogaster	ChIP-chip	MA0216.2.sites	11	2303
+*	FT0000306	cnc::maf-S	Drosophila melanogaster	ChIP-chip	MA0530.1.sites	15	474
+*	FT0000307	CTCF	Drosophila melanogaster	ChIP-chip	MA0531.1.sites	15	1902
+*	FT0000308	Kr 	Drosophila melanogaster	ChIP-chip	MA0452.2.sites	14	1296
+*	FT0000309	Stat92E	Drosophila melanogaster	ChIP-chip	MA0532.1.sites	15	118
+*	FT0000310	su(Hw)	Drosophila melanogaster	ChIP-chip	MA0533.1.sites	21	4737
+*	FT0000311	EcR::usp	Drosophila melanogaster	ChIP-seq	MA0534.1.sites	15	104
+*	FT0000312	pan	Drosophila melanogaster	ChIP-chip	MA0237.2.sites	14	71
+*	FT0000313	Mad	Drosophila melanogaster	ChIP-chip	MA0535.1.sites	15	102
+*	FT0000314	pnr	Drosophila melanogaster	ChIP-chip	MA0536.1.sites	11	869
+*	FT0000315	tin	Drosophila melanogaster	ChIP-chip	MA0247.2.sites	10	515
+*	FT0000316	blmp-1	Caenorhabditis elegans	ChIP-seq	MA0537.1.sites	11	3368
+*	FT0000317	daf-12	Caenorhabditis elegans	ChIP-seq	MA0538.1.sites	15	156
+*	FT0000318	dpy-27	Caenorhabditis elegans	ChIP-seq	MA0540.1.sites	16	22
+*	FT0000319	efl-1	Caenorhabditis elegans	ChIP-seq	MA0541.1.sites	15	2206
+*	FT0000320	eor-1	Caenorhabditis elegans	ChIP-seq	MA0543.1.sites	15	1253
+*	FT0000321	snpc-4	Caenorhabditis elegans	ChIP-seq	MA0544.1.sites	12	310
+*	FT0000322	hlh-1	Caenorhabditis elegans	ChIP-seq	MA0545.1.sites	11	381
+*	FT0000323	pha-4	Caenorhabditis elegans	ChIP-seq	MA0546.1.sites	10	1010
+*	FT0000324	skn-1	Caenorhabditis elegans	ChIP-seq	MA0547.1.sites	15	318
+*	FT0000325	AGL15	Arabidopsis thaliana	ChIP-chip	MA0548.1.sites	15	150
+*	FT0000326	BZR2	Arabidopsis thaliana	ChIP-chip	MA0549.1.sites	11	99
+*	FT0000327	BZR1	Arabidopsis thaliana	ChIP-chip	MA0550.1.sites	14	153
+*	FT0000328	PIF1	Arabidopsis thaliana	ChIP-chip	MA0552.1.sites	14	114
+*	FT0000329	SMZ	Arabidopsis thaliana	ChIP-chip	MA0553.1.sites	8	147
+*	FT0000330	SOC1	Arabidopsis thaliana	ChIP-chip	MA0554.1.sites	15	888
+*	FT0000331	SVP	Arabidopsis thaliana	ChIP-chip	MA0555.1.sites	20	92
+*	FT0000332	AP3	Arabidopsis thaliana	ChIP-seq	MA0556.1.sites	15	291
+*	FT0000333	FLC	Arabidopsis thaliana	ChIP-seq	MA0558.1.sites	21	275
+*	FT0000334	PI	Arabidopsis thaliana	ChIP-seq	MA0559.1.sites	14	558
+*	FT0000335	PIF3	Arabidopsis thaliana	ChIP-seq	MA0560.1.sites	10	527
+*	FT0000336	PIF4	Arabidopsis thaliana	ChIP-seq	MA0561.1.sites	8	335
+*	FT0000337	PIF5	Arabidopsis thaliana	ChIP-seq	MA0562.1.sites	8	286
+*	FT0000338	SEP3	Arabidopsis thaliana	ChIP-seq	MA0563.1.sites	11	150
+*	FT0000339	AGL27	Arabidopsis thaliana	ChIP-seq	MA1012.1.sites	14	142
+*	FT0000340	AP1	Arabidopsis thaliana	ChIP-seq	MA0940.1.sites	13	1622
+*	FT0000341	CEBPB	Homo sapiens	ChIP-seq	MA0466.1.sites	11	99494
