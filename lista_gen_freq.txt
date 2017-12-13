@@ -1,0 +1,22 @@
+"#","GCAT"
+"Bos taurus",0.2094,0.2094,0.2906,0.2906
+"Arabidopsis thaliana",0.1830,0.1830,0.3170,0.3170
+"Caenorhabditis elegans",0.1773,0.1773,0.3227,0.3227
+"Drosophila melanogaster",0.2107,0.2107,0.2893,0.2893
+"Gallus gallus",0.2146,0.2146,0.2854,0.2854
+"Homo sapiens",0.2053,0.2053,0.2947,0.2947
+"Hordeum vulgare",0.2215,0.2215,0.2785,0.2785
+"Mus musculus",0.2131,0.2131,0.2869,0.2869
+"Nicotiana sp.",0.1955,0.1955,0.3045,0.3045
+"Oryctolagus cuniculus",0.2203,0.2203,0.2797,0.2797
+"Rattus norvegicus",0.2118,0.2118,0.2882,0.2882
+"Rattus rattus",0.2118,0.2118,0.2882,0.2882
+"Triticum aestivum",0.2175,0.2175,0.2825,0.2825
+"Xenopus (Silurana) tropicalis",0.2027,0.2027,0.2973,0.2973
+"Xenopus laevis",0.2012,0.2012,0.2988,0.2988
+"Zea mays",0.2325,0.2325,0.2675,0.2675
+"Oncorhynchus mykiss",0.2500,0.2500,0.2500,0.2500
+"Antirrhinum majus",0.2500,0.2500,0.2500,0.2500
+"Halocynthia roretzi",0.2500,0.2500,0.2500,0.2500
+"Petunia x hybrida",0.2500,0.2500,0.2500,0.2500
+"Pisum sativum",0.2500,0.2500,0.2500,0.2500
